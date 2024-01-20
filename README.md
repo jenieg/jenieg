@@ -1,6 +1,6 @@
 <img src="https://imgur.com/v7mlQvw.png" width="100%">
 
-Passionate software engineer with a background in community-taught learning. Committed to leveraging technology for positive change, I aspire to merge technical expertise with a dedication to environmental advocacy to develop impactful tech solutions for a brighter, sustainable future.
+Passionate software engineer with a background in community-taught learning. Committed to leveraging technology for positive change, I aspire to merge technical expertise with a dedication to environmental advocacy to develop impactful tech solutions for a brighter future.
 
 <h1 align="center">Technologies</h1>
 
