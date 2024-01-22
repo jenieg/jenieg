@@ -11,7 +11,7 @@ I am a passionate software engineer with a background in community-taught learni
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=5a5a5a&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=5a5a5a&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=5a5a5a&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=NODE&color=5a5a5a&style=plastic&logo=node"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=5a5a5a&style=plastic&logo=node"/>
     <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=5a5a5a&style=plastic&logo=wordpress"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=5a5a5a&style=plastic&logo=git"/>
 </p>
