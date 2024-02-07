@@ -30,7 +30,4 @@ I am a passionate software engineer with a background in community-taught learni
   <a href="https://twitter.com/jenie_m_g" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=5a5a5a&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://wellfound.com/u/jenie-3" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=5a5a5a&style=plastic&logo=wellfound&logo-color=white"/>
-  </a>
 </p>
