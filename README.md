@@ -1,4 +1,4 @@
-<p align="center">Hi there 👋 I'm a full-stack software engineer working with JavaScript, Node.js, Express, and MongoDB. I love solving real-life problems with impactful solutions. Let's connect to explore remote work opportunities and build something amazing together!</p>
+<p align="center">Hi there 👋 I'm a full-stack software engineer working with JavaScript, Node.js, Express, and MongoDB. I solve real-life problems with impactful solutions. Let's connect to explore remote work opportunities and build something amazing together!</p>
 
 <h1 align="center">Technologies</h1>
 
