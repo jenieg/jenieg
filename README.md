@@ -1,5 +1,7 @@
 <img src="https://imgur.com/v7mlQvw.png" width="100%">
 
+<p align="center">Hi there 👋 I'm a full-stack software engineer working with JavaScript, Node.js, Express, MongoDB, and React. I love solving real-life problems with impactful solutions. Let's connect to explore remote work opportunities and build something amazing together!</p>
+
 <h1 align="center">Technologies</h1>
 
 <p align="center">
