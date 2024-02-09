@@ -1,7 +1,5 @@
 <img src="https://imgur.com/v7mlQvw.png" width="100%">
 
-I am a passionate software engineer with a background in community-taught learning. Committed to leveraging technology for positive change, I aspire to use my technical skills to create impactful technological solutions that contribute to a more sustainable and equitable future.
-
 <h1 align="center">Technologies</h1>
 
 <p align="center">
