@@ -6,12 +6,12 @@
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=5a5a5a&style=flat&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=5a5a5a&style=flat&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=5a5a5a&style=flat&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=5a5a5a&style=flat&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGODB&color=5a5a5a&style=flat&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=5a5a5a&style=flat&logo=express"/>
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=5a5a5a&style=flat&logo=react"/> --!>
     <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=5a5a5a&style=flat&logo=node.js"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=5a5a5a&style=flat&logo=wordpress"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT&color=5a5a5a&style=flat&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=5a5a5a&style=flat&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=5a5a5a&style=flat&logo=wordpress"/>
 </p>
 
 <h1 align="center">Connect With Me</h1>
