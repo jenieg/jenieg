@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jeniemg/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=5a5a5a&style=flat&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=5a5a5a&style=flat&logo=typer&logo-color=white"/>
 <!--   </a>
   <a href="https://jenie.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=5a5a5a&style=flat&logo=dribbble&logo-color=white"/>
